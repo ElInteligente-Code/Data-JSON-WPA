@@ -3,7 +3,7 @@
   "name": "El Inteligente | Noticias y Actualidad: Tecnología, IA y Deportes",
   "short_name": "El Inteligente",
   "description": "Explora el sitio web oficial de El Inteligente y ponte al día con las noticias del ámbito deportivo, tendencias, y todo lo que ocurre en el mundo.",
-  "start_url": "/",
+  "start_url": "https://elinteligenteoficial.blogspot.com/",
   "display": "standalone",
   "theme_color": "#800408",
   "background_color": "#000000",
@@ -26,3 +26,4 @@
     }
   ]
 }
+
