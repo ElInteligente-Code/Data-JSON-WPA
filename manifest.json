@@ -33,6 +33,12 @@
       "src": "dist/favicon/app-icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "dist/favicon/maskable_icon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
     }
   ]
 }
