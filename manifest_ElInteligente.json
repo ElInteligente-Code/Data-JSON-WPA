@@ -2,13 +2,33 @@
   "id": "https://elinteligenteoficial.blogspot.com/",
   "name": "El Inteligente · Noticias, Tecnología, IA y Deportes",
   "short_name": "El Inteligente",
-  "description": "Medio digital de El Inteligente con cobertura de noticias, tecnología, inteligencia artificial, deportes y tendencias actuales.",
+  "description": "Explora el sitio web oficial de El Inteligente y ponte al día con las noticias del ámbito deportivo, tendencias, y todo lo que ocurre en el mundo.",
   "start_url": "https://elinteligenteoficial.blogspot.com/",
   "scope": "https://elinteligenteoficial.blogspot.com/",
   "display": "standalone",
   "theme_color": "#800408",
   "background_color": "#000000",
   "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/ElInteligente-Code/Data-JSON-WPA@main/apple-touch-icon-60x60.png",
+      "sizes": "60x60",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/ElInteligente-Code/Data-JSON-WPA@main/apple-touch-icon-120x120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/ElInteligente-Code/Data-JSON-WPA@main/apple-touch-icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/ElInteligente-Code/Data-JSON-WPA@main/apple-touch-icon-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
     {
       "src": "https://cdn.jsdelivr.net/gh/ElInteligente-Code/Data-JSON-WPA@main/app-icon-192.png",
       "sizes": "192x192",
