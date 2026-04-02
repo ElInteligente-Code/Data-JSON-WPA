@@ -1,9 +1,9 @@
 {
   "id": "/",
-  "name": "El Inteligente · Noticias, Tecnología, IA y Deportes",
+  "name": "El Inteligente – Sitio de Noticias de Confianza",
   "short_name": "El Inteligente",
   "description": "Explora el sitio web oficial de El Inteligente y ponte al día con las noticias del ámbito deportivo, tendencias, y todo lo que ocurre en el mundo.",
-  "start_url": "https://elinteligenteoficial.blogspot.com/",
+  "start_url": "https://www.elinteligente.com/",
   "display": "standalone",
   "theme_color": "#800408",
   "background_color": "#800408",
